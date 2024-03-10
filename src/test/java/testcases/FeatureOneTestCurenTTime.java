@@ -4,20 +4,10 @@ import org.testng.annotations.Test;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.AfterMethod;
 
-public class TimeTest {
+public class FeatureOneTestCurenTTime {
   @Test
-  public void TestCurrentTime() {
+  public void f() {
   }
-  
-  @Test
-  public void TestCurrentTimeInToronto() {
-  }
-  
-  @Test
-  public void TestCurrtentTimeInNYC() {
-  }
-  
-  
   @BeforeMethod
   public void beforeMethod() {
   }
