@@ -22,6 +22,7 @@ import org.testng.Reporter;
 import org.testng.annotations.AfterMethod;
 
 public class AdminTest{
+	// This is Adming Page Class
 	private static final Logger logger = (Logger) LogManager.getLogger(AdminTest.class);
 
 	private TestBase tb;
